@@ -2,9 +2,10 @@
 using System.Collections.Specialized;
 using Downloader;
 using Downloader.Jobs;
-using Downloader.Logging;
 using Quartz;
 using Quartz.Impl;
+using Quartz.Logging;
+
 
 LogProvider.SetCurrentLogProvider(new ConsoleLogProvider());
 

@@ -1,4 +1,4 @@
-using Downloader.Logging;
+using Quartz.Logging;
 
 namespace Downloader
 {
